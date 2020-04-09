@@ -1,25 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
+import './global.css'
+
+//import Header from './Header';
+
+//import Login from './pages/Login';
+
+import Routes from './routes';
+
+//Componente em React é uma função que Retorna HTML.
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-         Hello Word
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    /*JSX(XML) é quando o HTML esta integrado dentro do javascript.
+    <h1> Hello Word </h1>*/
+
+    /*Passar uma Propriedade para o Componente Header
+    <Header title="Semana OmniStack"/>
+    */
+
+    //Passar uma Propriedade para o Componente Header com children
+    <Routes />
+    
   );
 }
 
