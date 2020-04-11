@@ -1,0 +1,24 @@
+[33mcommit 1d88497fb7ac01bbfa0fd8913fbba51f853ebc4c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 06886ee 35c6f04
+Author: Idalécio Vieira <idaleciovieira20@gmail.com>
+Date:   Thu Apr 9 17:23:37 2020 +0100
+
+    Merge branch 'master' of https://github.com/idalecio10/Ongs
+
+[33mcommit 06886ee02296f369010e41226fdff44f8b064337[m
+Author: Idalécio Vieira <idaleciovieira20@gmail.com>
+Date:   Thu Apr 9 17:21:00 2020 +0100
+
+    Front-end do app
+
+[33mcommit 35c6f043eed70d25adc28b2353ab6b9aa3085cfd[m
+Author: idalecio10 <63009933+idalecio10@users.noreply.github.com>
+Date:   Wed Apr 1 19:14:21 2020 +0100
+
+    Create README.md
+
+[33mcommit e329392dd88cde2ef7ab80afe2b101e50ea2282c[m
+Author: Idalécio Vieira <idaleciovieira20@gmail.com>
+Date:   Wed Apr 1 19:02:09 2020 +0100
+
+    Back-end da aplicação
